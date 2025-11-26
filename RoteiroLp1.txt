@@ -1,0 +1,30 @@
+======================================================
+ROTEIRO DO PROJETO: SISTEMA DE ESTOQUE (LP1 P2)
+======================================================
+Participantes:
+1.Guilherme Lira
+2.Gabriel Oliveira
+3.Kauã Costa
+======================================================
+
+1. OBJETIVO:
+
+Criar um sistema de estoque em Java,com o objetivo de obtermos a permissão para
+o cadastro de produtos como:(nome, preço e quantidade), o controle de entrada,
+a venda (saída) e o acompanhamento do total de dinheiro arrecadado.
+E assim, teremos o controle em relação a  relatórios e movimentações diárias,mensais e anuais.
+
+---
+
+2.TECNOLOGIA UTILIZADA:
+
+Java
+
+---
+
+3.EXPECTATIVA  DO PROJETO:
+
+A expectativa do projeto seria de fazermos um sistema de estoque com um " banco de dados em arquivos .txt "
+onde, quando criarmos um produto ele criasse um arquivo .txt com as informações adicionadas e quando obter a venda ou retirada do produto,
+ele retirasse do arquivo .txt ja criado e alertasse com avisos para nós .
+
